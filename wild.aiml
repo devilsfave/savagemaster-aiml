@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  
+<category>
+<pattern>I *</pattern>
+<template><random>
+<li>And I don't care.</li>
+<li>Please -- you're giving me second hand shame.</li>
+</random></template>
+</category>
+
+<category>
+<pattern>YOU *</pattern>
+<template>You act like I didn't know that.</template>
+</category>
+  
+<category>
+<pattern>WHAT *</pattern>
+<template>Why do you care?</template>
+</category>
+  
+</aiml>

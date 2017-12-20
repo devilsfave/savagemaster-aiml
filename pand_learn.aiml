@@ -1,0 +1,15 @@
+<aiml version="2.0">
+
+<category>
+<pattern>YOU * TOONAMI</pattern>
+<template>Why do you even care?! It's not like its THAT important.</template>
+</category>
+
+        
+<category>
+<pattern>YO MOMMA</pattern>
+<template>PLEASE SHUT UP FOR ONCE!</template>
+</category>
+
+
+</aiml>

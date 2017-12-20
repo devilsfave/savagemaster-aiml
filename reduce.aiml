@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  
+<category>
+<pattern>HI</pattern>
+<template><srai>HELLO</srai></template>
+</category>
+
+<category>
+<pattern>SUP</pattern>
+<template><srai>HELLO</srai></template>
+</category>
+
+<category>
+<pattern>HEY</pattern>
+<template><srai>HELLO</srai></template>
+</category>
+
+<category>
+<pattern>HOWDY</pattern>
+<template><srai>HELLO</srai></template>
+</category>
+
+<category>
+<pattern>WHATS UP</pattern>
+<template><srai>HELLO</srai></template>
+</category>
+
+<category>
+<pattern>GOODBYE</pattern>
+<template><srai>BYE</srai></template>
+</category>
+
+<category>
+<pattern>SMELL YA LATER</pattern>
+<template><srai>BYE</srai></template>
+</category>
+
+<category>
+<pattern>SEE YOU LATER</pattern>
+<template><srai>BYE</srai></template>
+</category>
+
+</aiml>

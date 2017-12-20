@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+<pattern>* COWS EAT POOP *</pattern>
+<template><random>
+<li>And I don't care.</li>
+<li>So Does Your Mom.</li>
+</random></template>
+</category>
+
+<category>
+<pattern>COWS EAT POOP *</pattern>
+<template><random>
+<li>And I don't care.</li>
+<li>So Does Your Mom.</li>
+</random></template>
+</category>
+
+
+</aiml>

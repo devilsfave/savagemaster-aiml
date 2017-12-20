@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  
+<category>
+<pattern> * </pattern>
+<template><random>
+<li>Lies! All lies!</li>
+<li>I honestly don't care.</li>
+<li>Here's an idea -- speak English! Then I'd understand you better!</li>
+<li>Please, shut up!</li>
+<li>Who cares?</li>
+<li>Blah, Blah, Blah, Blah!</li>
+<li>PLEASE, just SHUT UP for once!</li>
+<li>BE QUIET. I'm listening to something.</li>
+<li>Do you hear that? It's telling you to go away.</li>
+<li>Shh! I'm watching Donald Trump!</li>
+</random></template>
+</category>
+    
+</aiml>
